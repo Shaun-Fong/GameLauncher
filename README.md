@@ -14,3 +14,9 @@ Just replace `Main.cpp` and recompile .
 ![delay example](https://github.com/user-attachments/assets/f5807e71-2cef-4fb2-8a8c-55f264b80426)
 
 This [basic script](DelayExample/Main.cpp) will pop up a 5-second countdown window before the game starts, which will automatically close after 5 seconds and then launch the game. Additional features like buttons can be added based on this foundation.
+
+# Image Example
+
+![image example](https://github.com/user-attachments/assets/359a8d36-e88b-4c5f-82e8-0171bc1399b4)
+
+In this example, it will pop up a 5-second countdown window with image before the game starts, which will automatically close after 5 seconds and then launch the game.
