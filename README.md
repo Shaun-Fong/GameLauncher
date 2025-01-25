@@ -6,8 +6,11 @@ And more examples will be added to the project
 
 # How to use
 
-Just replace `Main.cpp` and recompile .
+Build your unity project with `Create Visual Studio Solution` options.
 
+![image](https://github.com/user-attachments/assets/257439e1-a16b-476e-8e86-0757bb56ecc7)
+
+Replace files in folder , then recompile .
 
 # Delay Example
 
